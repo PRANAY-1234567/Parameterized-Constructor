@@ -9,8 +9,7 @@ class Person:
 
 p1 = Person("Sakshi", 20)
 p2 = Person("Pranay", 12)
-p3 = Person("Jay", 23)
 
 p1.display()
 p2.display()
-p3.display()
+
